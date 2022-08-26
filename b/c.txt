@@ -1,5 +1,6 @@
 here is file c
+new line at 1807
 this was saved at 1804
-I will make a further line
+I will make a further edited line
 here
 so this will be the last line
